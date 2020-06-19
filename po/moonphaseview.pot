@@ -1,0 +1,92 @@
+# Translations for MoonPhaseView.
+# Copyright (C) 2020
+# Translations for MoonPhase-View.
+# Copyright (C) 2020 Erich Küster
+# This file is distributed under the same license as the MoonPhase-View package.
+# Erich Küster <erich.kuester@arcor.de>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-18 23:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: moonphasewindow.cpp:177
+msgid " lunar phases calculated for year "
+msgstr ""
+
+#: moonphasewindow.cpp:236
+msgid " lunar phases stored for year "
+msgstr ""
+
+#: moonphasewindow.cpp:127
+msgid " should be greater than 1970"
+msgstr ""
+
+#: moonphase.h:52
+msgid "(full moon)"
+msgstr ""
+
+#: moonphase.h:53
+msgid "(waning moon"
+msgstr ""
+
+#: moonphasewindow.cpp:31
+msgid "<b>Year number: </b>"
+msgstr ""
+
+#: moonphasewindow.cpp:79
+msgid "Begin of lunar phase"
+msgstr ""
+
+#: moonphasewindow.cpp:127
+msgid "Check input: year "
+msgstr ""
+
+#: moonphase.cpp:160 moonphase.h:54
+msgid "Error: Phase not between 0 and 3"
+msgstr ""
+
+#: moonphasewindow.cpp:26
+msgid "Gtk::MoonPhaseView"
+msgstr ""
+
+#: moonphasewindow.cpp:95
+msgid "Insert number for year, press Enter"
+msgstr ""
+
+#: moonphasewindow.cpp:113
+msgid "Invalid number, please try again"
+msgstr ""
+
+#: moonphasewindow.cpp:80
+msgid "Name of lunar phase"
+msgstr ""
+
+#: moonphasewindow.cpp:239
+msgid "No data for calendar available"
+msgstr ""
+
+#: moonphasewindow.cpp:22
+msgid "Quit"
+msgstr ""
+
+#: moonphasewindow.cpp:20
+msgid "Save"
+msgstr ""
+
+#: moonphase.h:51
+msgid "crescent moon)"
+msgstr ""
+
+#: moonphase.h:50
+msgid "new moon"
+msgstr ""

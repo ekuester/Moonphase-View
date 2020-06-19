@@ -1,0 +1,5 @@
+# List of source files which contain translatable strings.
+src/moonphase.h
+src/moonphasewindow.h
+src/moonphasewindow.cpp
+

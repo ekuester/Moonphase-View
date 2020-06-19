@@ -5,7 +5,7 @@ See all moon phases of a given year and put the dates into your personal calenda
 
 The program was written in C++ with use of gtkmm wrapper for Gnome GTK environment of Linux.
 
-The program follows the design of my earlier program Moon-Phase-View here on Github written in Swift. Since I switched from macOS to Fedora Linux (for what reasons ever) I had to change my programming language. For "simplicity" I choose C++ and to my pleasure found its "way to think" very similar to Swift and Objective-C. In some aspects I found C++ easier compared to Swift ...r
+The program follows the design of my earlier program Moon-Phase-View here on Github written in Swift. Since I switched from macOS to Fedora Linux (for what reasons ever) I had to change my programming language. For "simplicity" I choose C++ and to my pleasure found its "way to think" very similar to Swift and Objective-C. In some aspects I found C++ easier compared to Swift ...
 
 I wrote this program to become familiar with the C++ language, especially the GTK-API under the gtkmm wrapper and to get a feeling how to display liststore treeviews on the screen. Take it as example for handling of windows, calendars and dates.
 
